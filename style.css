@@ -13,6 +13,13 @@ header {
     text-align: center;
 }
 
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
 main {
     margin: 20px;
     text-align: center;
